@@ -32,7 +32,7 @@ Of the five remaining humans on the last mile of habitable land on earth, one is
 
 
 ## 3298: A phrase becomes a single word
-Two cyborgs warp-speed to a the 3E9th floor of an archology for a game jam. 
+Two cyborgs warp-speed to the 3E9th floor of the Third Saturnine Arcology for a game jam. 
 
 "McCheug? must be how they spelled it in old english"
 

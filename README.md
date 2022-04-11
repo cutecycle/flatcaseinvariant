@@ -1,7 +1,15 @@
 # The goals of fools
+"convert flatcase to camelcase"
+
+"convert flat case to camelcase"
+
+"convert lowercase with no separators to camelcase"
+
 going from any casing convention to flatcase is lossy.
+```
 lower(LocalHost) = 'localhost'
 upper(localhost) = ???
+```
 
 This is because casing is an invention of man. The casing of words changes over time, the meaning of words changes over time, and the judgment of programmers changes over time.
 
@@ -36,9 +44,6 @@ Two cyborgs warp-speed to a the 3E9th floor of an archology for a game jam.
 
 "it wortinated piratomosly ovineted Cheug oducivelys. numentursofaus thresyncess rivas calhams. perchery hygienevangelist flatcaseinvariant 2.0. midternal eaterfully Americans bytriport attwood, "the old one has a SHA hash anyway"."
 
-"convert flatcase to camelcase"
-"convert flat case to camelcase"
-"convert lowercase with no separators to camelcase"
 
 
 
